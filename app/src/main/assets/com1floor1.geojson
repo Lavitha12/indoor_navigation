@@ -1,0 +1,2363 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774077,
+              1.294851
+            ],
+            [
+              103.774043,
+              1.294893
+            ],
+            [
+              103.773944,
+              1.294815
+            ],
+            [
+              103.773979,
+              1.294772
+            ],
+            [
+              103.774077,
+              1.294851
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "006f8f8e329d3728b65427cf6804653f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs-5",
+        "type": 3
+      },
+      "geometry": {
+        "coordinates": [
+          103.773877,
+          1.29521
+        ],
+        "type": "Point"
+      },
+      "id": "06e333e5e67682bfa2a5841ed713c353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 8
+      },
+      "geometry": {
+        "coordinates": [
+          103.773938,
+          1.294802
+        ],
+        "type": "Point"
+      },
+      "id": "0abc3a56cb186109798217cabf907523"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773791,
+              1.29535
+            ],
+            [
+              103.773728,
+              1.295299
+            ],
+            [
+              103.773703,
+              1.295331
+            ],
+            [
+              103.773765,
+              1.295382
+            ],
+            [
+              103.773791,
+              1.29535
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "0f760394cadfe2cb01c03fcbdc2d322a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 11
+      },
+      "geometry": {
+        "coordinates": [
+          103.773746,
+          1.294785
+        ],
+        "type": "Point"
+      },
+      "id": "100fcad24c6138963c543df15addc73c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artificial Intelligence Lab 1",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.77411,
+          1.294851
+        ],
+        "type": "Point"
+      },
+      "id": "11baedb216ba8feae8ac668c172e9423"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773877,
+              1.294841
+            ],
+            [
+              103.773851,
+              1.29482
+            ],
+            [
+              103.773887,
+              1.294775
+            ],
+            [
+              103.773914,
+              1.294797
+            ],
+            [
+              103.773877,
+              1.294841
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "120ae755ccb2857bbcaf9c9eff0130be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Computational Biology 1",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.773958,
+          1.294776
+        ],
+        "type": "Point"
+      },
+      "id": "1310878f003be0dd31e17fa77552a928"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773706,
+              1.294946
+            ],
+            [
+              103.773734,
+              1.294911
+            ],
+            [
+              103.773666,
+              1.294854
+            ],
+            [
+              103.773639,
+              1.294888
+            ],
+            [
+              103.773706,
+              1.294946
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "13e93b4270fb024497abf441c2fca74b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 5
+      },
+      "geometry": {
+        "coordinates": [
+          103.774066,
+          1.294686
+        ],
+        "type": "Point"
+      },
+      "id": "14edf652add55856e8805670f56fd8f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wire Centre"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773978,
+          1.294753
+        ],
+        "type": "Point"
+      },
+      "id": "16c7e526fb27334ea0ec2e2c23777c1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773741,
+              1.295412
+            ],
+            [
+              103.773678,
+              1.295361
+            ],
+            [
+              103.77365,
+              1.295395
+            ],
+            [
+              103.773714,
+              1.295447
+            ],
+            [
+              103.773741,
+              1.295412
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1ae87415542be1b852b977d6276b9e87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Database 1",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774137,
+          1.294816
+        ],
+        "type": "Point"
+      },
+      "id": "1b6beeb2f09be4c1130ae8a17be00c38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 3
+      },
+      "geometry": {
+        "coordinates": [
+          103.773949,
+          1.295048
+        ],
+        "type": "Point"
+      },
+      "id": "2362e6c813fc9b9c0dae56cb11a249ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774043,
+              1.294894
+            ],
+            [
+              103.774009,
+              1.294936
+            ],
+            [
+              103.773911,
+              1.294856
+            ],
+            [
+              103.773944,
+              1.294815
+            ],
+            [
+              103.774043,
+              1.294894
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "23a8f57a5bd25ac11c10ee0624af3c9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773632,
+              1.29493
+            ],
+            [
+              103.773609,
+              1.294958
+            ],
+            [
+              103.773593,
+              1.294943
+            ],
+            [
+              103.773616,
+              1.294916
+            ],
+            [
+              103.773632,
+              1.29493
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "23dce020c1b5d419dfeae77c87b1ea31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artificial Intelligence Lab 2",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.77425,
+          1.294678
+        ],
+        "type": "Point"
+      },
+      "id": "25b8f383343b747a3ba2452eaf71093b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robot Living Studio"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773852,
+          1.294973
+        ],
+        "type": "Point"
+      },
+      "id": "2b075def9f0f18dc070d76a3b4021154"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773852,
+              1.29482
+            ],
+            [
+              103.773782,
+              1.294764
+            ],
+            [
+              103.773819,
+              1.29472
+            ],
+            [
+              103.773887,
+              1.294775
+            ],
+            [
+              103.773852,
+              1.29482
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2be01461221220c0ffa3fdaab206fd66"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            103.773783,
+            1.294764
+          ],
+          [
+            103.773751,
+            1.294737
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2c56ad76f11768b3a6dfed60c9c5a443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 9
+      },
+      "geometry": {
+        "coordinates": [
+          103.773822,
+          1.294947
+        ],
+        "type": "Point"
+      },
+      "id": "2db7c2ad708fbf547b8ef52eceeae6bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Database 2",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774046,
+          1.294722
+        ],
+        "type": "Point"
+      },
+      "id": "309fd44d1700c3af601afe4bfc4a7dca"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774007,
+              1.294936
+            ],
+            [
+              103.773944,
+              1.295013
+            ],
+            [
+              103.773901,
+              1.294978
+            ],
+            [
+              103.773964,
+              1.294901
+            ],
+            [
+              103.774007,
+              1.294936
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "30b0e9a4ec7bdbbe982a2c5cb349e950"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773766,
+              1.295382
+            ],
+            [
+              103.773714,
+              1.29534
+            ],
+            [
+              103.773689,
+              1.29537
+            ],
+            [
+              103.773741,
+              1.295412
+            ],
+            [
+              103.773766,
+              1.295382
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "316ac26729884006db0bac6dc2b8e0f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Database 3",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774048,
+          1.294926
+        ],
+        "type": "Point"
+      },
+      "id": "3361a0dfe6776bd0615d9328e9b8b112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artificial Intelligence Lab 2",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774138,
+          1.294743
+        ],
+        "type": "Point"
+      },
+      "id": "346dc0b15d0b3daa32bf9768d1c10a74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artificial Intelligence Lab 3"
+      },
+      "geometry": {
+        "coordinates": [
+          103.774076,
+          1.294606
+        ],
+        "type": "Point"
+      },
+      "id": "348c4621ff0a5b0a92a88c2ba69fde56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 7
+      },
+      "geometry": {
+        "coordinates": [
+          103.774011,
+          1.294711
+        ],
+        "type": "Point"
+      },
+      "id": "3574b65a5fb38473b8810048340d9154"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773901,
+              1.294977
+            ],
+            [
+              103.77385,
+              1.294936
+            ],
+            [
+              103.773911,
+              1.294857
+            ],
+            [
+              103.773964,
+              1.294899
+            ],
+            [
+              103.773901,
+              1.294977
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "37808413fdf7ac65cbef9b4514601232"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774106,
+              1.294813
+            ],
+            [
+              103.774034,
+              1.294755
+            ],
+            [
+              103.774005,
+              1.294792
+            ],
+            [
+              103.774077,
+              1.29485
+            ],
+            [
+              103.774106,
+              1.294813
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "38cedc88ef23e4aaaf064a8116a15945"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773979,
+              1.294771
+            ],
+            [
+              103.774001,
+              1.294743
+            ],
+            [
+              103.774027,
+              1.294764
+            ],
+            [
+              103.774005,
+              1.294792
+            ],
+            [
+              103.773979,
+              1.294771
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "42ed35e77d33065b337696d811c4b2cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AV Control Room"
+      },
+      "geometry": {
+        "coordinates": [
+          103.77363,
+          1.294905
+        ],
+        "type": "Point"
+      },
+      "id": "43a8962b0a07ba2b9a7ea9d39be322bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embedded Systems Teaching Lab 1",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774042,
+          1.294933
+        ],
+        "type": "Point"
+      },
+      "id": "48d0b8ba2a35fa76b5fc22688b04cbd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs-3",
+        "type": 5
+      },
+      "geometry": {
+        "coordinates": [
+          103.77378,
+          1.294746
+        ],
+        "type": "Point"
+      },
+      "id": "48e81dfeb294c3739a381c55bd23798a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs",
+        "type": 0
+      },
+      "geometry": {
+        "coordinates": [
+          103.77392,
+          1.295129
+        ],
+        "type": "Point"
+      },
+      "id": "490a1b569ae55e5ca4a6bbc0741c6771"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            103.773977,
+            1.294597
+          ],
+          [
+            103.773961,
+            1.294584
+          ],
+          [
+            103.773943,
+            1.294605
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "4b59ea2e8bb19964f330dc59de03940b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 13
+      },
+      "geometry": {
+        "coordinates": [
+          103.774124,
+          1.29455
+        ],
+        "type": "Point"
+      },
+      "id": "5149a52a4cf68d0024fd3d3eff0a1054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Database 1",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.774207,
+          1.29477
+        ],
+        "type": "Point"
+      },
+      "id": "544c9708ff6b4449664cba0ab0679392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toilet": "Male Toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773668,
+          1.295438
+        ],
+        "type": "Point"
+      },
+      "id": "556fa5373a7106be0b7bc51cfbc882bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embedded Systems Teaching Lab 2",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774078,
+          1.294888
+        ],
+        "type": "Point"
+      },
+      "id": "56d557fe3be895bafba1225650ddb3e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graduate Students' Lounge"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773884,
+          1.294756
+        ],
+        "type": "Point"
+      },
+      "id": "5a71c8f51b4668ef097c2938d369d753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Technical Staff Office 3"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773709,
+          1.295308
+        ],
+        "type": "Point"
+      },
+      "id": "5ba9fca59495b94de83ed4a0a8afaa4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AHU",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774004,
+          1.294719
+        ],
+        "type": "Point"
+      },
+      "id": "5f98ed701b625ea1d1bc3d2a65a8c714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 10
+      },
+      "geometry": {
+        "coordinates": [
+          103.773683,
+          1.294824
+        ],
+        "type": "Point"
+      },
+      "id": "6367e8b4ae8bce5c69abf5fe80f90a2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773939,
+              1.29517
+            ],
+            [
+              103.773894,
+              1.295135
+            ],
+            [
+              103.773872,
+              1.295161
+            ],
+            [
+              103.773917,
+              1.295197
+            ],
+            [
+              103.773939,
+              1.29517
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6a6bcfc3648ead50daf007629fa91b55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toilet": "Male/Female/Handicapped toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773755,
+          1.294759
+        ],
+        "type": "Point"
+      },
+      "id": "6a9b987264a4c901f7ff607ac8bde4cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773691,
+              1.295183
+            ],
+            [
+              103.773724,
+              1.295144
+            ],
+            [
+              103.773745,
+              1.295163
+            ],
+            [
+              103.773713,
+              1.295202
+            ],
+            [
+              103.773691,
+              1.295183
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6b62e3ab4205091a40f8ec8202c99278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Systems & Networking 2",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.773889,
+          1.294865
+        ],
+        "type": "Point"
+      },
+      "id": "6b72f4ed0f6ce883f1c52e0b3db4e9a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MR5"
+      },
+      "geometry": {
+        "coordinates": [
+          103.774061,
+          1.294682
+        ],
+        "type": "Point"
+      },
+      "id": "6b80c13a3b23a217e8c2a3f8f1a961dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Technical Staff Office 1"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773656,
+          1.29537
+        ],
+        "type": "Point"
+      },
+      "id": "6bbd85a72180ad0924ad51ce1375db03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Switch Room"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773817,
+          1.295196
+        ],
+        "type": "Point"
+      },
+      "id": "6c6e3a0bcc63eb105ece629876486945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electrical Room 3"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773741,
+          1.295196
+        ],
+        "type": "Point"
+      },
+      "id": "70b7c3d76e444ba78c54dcd64653eec1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 4
+      },
+      "geometry": {
+        "coordinates": [
+          103.774172,
+          1.294772
+        ],
+        "type": "Point"
+      },
+      "id": "730bf8d0c5dd4a2f8cc4c1f155ed3b5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electrical Room 2"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773776,
+          1.295153
+        ],
+        "type": "Point"
+      },
+      "id": "7634c212e883fc59c24cf4ac04e905c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toilet": "Female toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773893,
+          1.295191
+        ],
+        "type": "Point"
+      },
+      "id": "773570f601c347200b54911d40b19c6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773977,
+              1.294597
+            ],
+            [
+              103.774059,
+              1.294496
+            ],
+            [
+              103.774103,
+              1.294532
+            ],
+            [
+              103.77402,
+              1.294632
+            ],
+            [
+              103.773977,
+              1.294597
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7a2f6973c868d8fff370c7cbd6eea2bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs",
+        "type": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.774276,
+          1.294713
+        ],
+        "type": "Point"
+      },
+      "id": "7ab987423c584390905ca7f112f793b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Technical Services"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773787,
+          1.294915
+        ],
+        "type": "Point"
+      },
+      "id": "7d367e00f8bda8730112a4d762c4f637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "Lift",
+        "type": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774047,
+          1.294997
+        ],
+        "type": "Point"
+      },
+      "id": "7e2f85379269f009a42c3d90a047710d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "Lift",
+        "type": 8
+      },
+      "geometry": {
+        "coordinates": [
+          103.773601,
+          1.294927
+        ],
+        "type": "Point"
+      },
+      "id": "7e6c16f051c05ce959164296c6e25f30"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774125,
+              1.294719
+            ],
+            [
+              103.774202,
+              1.294623
+            ],
+            [
+              103.774238,
+              1.294653
+            ],
+            [
+              103.774161,
+              1.294748
+            ],
+            [
+              103.774125,
+              1.294719
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7f0317886ba3671d18730b41f22a0eb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773683,
+              1.294973
+            ],
+            [
+              103.773706,
+              1.294946
+            ],
+            [
+              103.773639,
+              1.294889
+            ],
+            [
+              103.773616,
+              1.294916
+            ],
+            [
+              103.773683,
+              1.294973
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7fed7025dc0f9a90f71f135fa7909d8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.77378,
+              1.295236
+            ],
+            [
+              103.773806,
+              1.295203
+            ],
+            [
+              103.773869,
+              1.295254
+            ],
+            [
+              103.773842,
+              1.295287
+            ],
+            [
+              103.77378,
+              1.295236
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "834af51b37d32995c9df57217ab0ba8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Systems & Networking 2",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.773853,
+          1.294912
+        ],
+        "type": "Point"
+      },
+      "id": "8665e46ab97b7298e5457392c1edd3ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supplies Room"
+      },
+      "geometry": {
+        "coordinates": [
+          103.774154,
+          1.294575
+        ],
+        "type": "Point"
+      },
+      "id": "8855777360a22b86833b600cf77defde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embedded Systems Teaching Lab 1",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.773917,
+          1.294827
+        ],
+        "type": "Point"
+      },
+      "id": "8ab564b9b1b9b688869c4fd463b6cb37"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.77382,
+              1.295214
+            ],
+            [
+              103.773837,
+              1.295193
+            ],
+            [
+              103.773886,
+              1.295232
+            ],
+            [
+              103.773869,
+              1.295254
+            ],
+            [
+              103.77382,
+              1.295214
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "8cfe502e89fc3f9329c3ed83d39b556d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Systems & Networking 1",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.774189,
+          1.294603
+        ],
+        "type": "Point"
+      },
+      "id": "914d6f24e81a19c511a00d9529d3eac9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 14
+      },
+      "geometry": {
+        "coordinates": [
+          103.773806,
+          1.294692
+        ],
+        "type": "Point"
+      },
+      "id": "91cbdf34711fcc4fbb0c5835926f20ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773759,
+              1.295103
+            ],
+            [
+              103.7736,
+              1.29497
+            ],
+            [
+              103.773589,
+              1.294984
+            ],
+            [
+              103.77358,
+              1.294976
+            ],
+            [
+              103.773549,
+              1.295014
+            ],
+            [
+              103.773557,
+              1.295021
+            ],
+            [
+              103.773544,
+              1.295038
+            ],
+            [
+              103.7737,
+              1.295172
+            ],
+            [
+              103.773759,
+              1.295103
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9a2ebc0371e865aee77d97ad44afdd4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774089,
+              1.294688
+            ],
+            [
+              103.774166,
+              1.294594
+            ],
+            [
+              103.774202,
+              1.294623
+            ],
+            [
+              103.774125,
+              1.294719
+            ],
+            [
+              103.774089,
+              1.294688
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9bcc0f2a94ab94d1a9850dfd2b0ef067"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774144,
+              1.294765
+            ],
+            [
+              103.774069,
+              1.294704
+            ],
+            [
+              103.77403,
+              1.294752
+            ],
+            [
+              103.774106,
+              1.294813
+            ],
+            [
+              103.774144,
+              1.294765
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9d25d720d54af53f766ba350dbcbcb00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 12
+      },
+      "geometry": {
+        "coordinates": [
+          103.774033,
+          1.29466
+        ],
+        "type": "Point"
+      },
+      "id": "9e1fef20f406f2e0766a2c6e5db4fd3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electrical Room 4"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773732,
+          1.295277
+        ],
+        "type": "Point"
+      },
+      "id": "9fa9b06dac9d0d42d97c106b9cfd3681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Systems & Networking 1",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.774101,
+          1.294712
+        ],
+        "type": "Point"
+      },
+      "id": "a085cdbd34aba5be8419f0b4e40bca8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs-2",
+        "type": 6
+      },
+      "geometry": {
+        "coordinates": [
+          103.773775,
+          1.294726
+        ],
+        "type": "Point"
+      },
+      "id": "a18e83ffb58b751b1f17dac8b52354b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 6
+      },
+      "geometry": {
+        "coordinates": [
+          103.774031,
+          1.294729
+        ],
+        "type": "Point"
+      },
+      "id": "a7d1aed32df0b67547e4f345c3d25371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Systems & Networking 2"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773978,
+          1.295011
+        ],
+        "type": "Point"
+      },
+      "id": "abbde48a8d5ca61bbed9117ed76a0dad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gen Set Room"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773785,
+          1.295213
+        ],
+        "type": "Point"
+      },
+      "id": "ac78bbc2fb98c79f06e1e2a9d3d56b6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773842,
+              1.295287
+            ],
+            [
+              103.77379,
+              1.295244
+            ],
+            [
+              103.773764,
+              1.295276
+            ],
+            [
+              103.773817,
+              1.295318
+            ],
+            [
+              103.773842,
+              1.295287
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ae6161e5caf0e84c89773186bef320d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.77377,
+              1.295023
+            ],
+            [
+              103.77381,
+              1.294972
+            ],
+            [
+              103.773912,
+              1.295054
+            ],
+            [
+              103.773872,
+              1.295104
+            ],
+            [
+              103.77377,
+              1.295023
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "b08782a350db700cc972d3adc19a9d62"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773884,
+              1.294662
+            ],
+            [
+              103.773855,
+              1.294639
+            ],
+            [
+              103.773818,
+              1.294683
+            ],
+            [
+              103.77394,
+              1.294784
+            ],
+            [
+              103.773961,
+              1.294757
+            ],
+            [
+              103.773868,
+              1.294681
+            ],
+            [
+              103.773884,
+              1.294662
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "b73c5e88d8378f4a10dbc89c3594d598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Database 3",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.774117,
+          1.294843
+        ],
+        "type": "Point"
+      },
+      "id": "bb0a1a29d6e8cf2377c7d1d4a396641f"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773609,
+              1.294958
+            ],
+            [
+              103.773662,
+              1.295001
+            ],
+            [
+              103.773684,
+              1.294974
+            ],
+            [
+              103.773658,
+              1.294952
+            ],
+            [
+              103.773633,
+              1.29493
+            ],
+            [
+              103.773609,
+              1.294958
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "bba630ba6e3bc153689c266bc361ba30"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773746,
+              1.295163
+            ],
+            [
+              103.773724,
+              1.295144
+            ],
+            [
+              103.773759,
+              1.295104
+            ],
+            [
+              103.77378,
+              1.295121
+            ],
+            [
+              103.773746,
+              1.295163
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "bccf6352067deb9173f5a7f8f07d7ce4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Career Consultation Room"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773708,
+          1.294844
+        ],
+        "type": "Point"
+      },
+      "id": "be1a9ed09ba32bcc29e3b52a6776aed2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs-4",
+        "type": 4
+      },
+      "geometry": {
+        "coordinates": [
+          103.773585,
+          1.294951
+        ],
+        "type": "Point"
+      },
+      "id": "bf4635c304f557d915ac9c3e538c4d90"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773977,
+              1.294716
+            ],
+            [
+              103.774005,
+              1.29468
+            ],
+            [
+              103.774031,
+              1.294702
+            ],
+            [
+              103.774038,
+              1.294692
+            ],
+            [
+              103.774029,
+              1.294685
+            ],
+            [
+              103.774033,
+              1.294678
+            ],
+            [
+              103.774017,
+              1.294665
+            ],
+            [
+              103.774012,
+              1.294672
+            ],
+            [
+              103.773991,
+              1.294656
+            ],
+            [
+              103.773997,
+              1.294649
+            ],
+            [
+              103.773934,
+              1.294597
+            ],
+            [
+              103.77391,
+              1.294627
+            ],
+            [
+              103.773903,
+              1.294621
+            ],
+            [
+              103.773887,
+              1.294642
+            ],
+            [
+              103.773977,
+              1.294716
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c133bd8917123e53ff306d43e45d3b2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774177,
+              1.294878
+            ],
+            [
+              103.774142,
+              1.29485
+            ],
+            [
+              103.774046,
+              1.294968
+            ],
+            [
+              103.774081,
+              1.294996
+            ],
+            [
+              103.774177,
+              1.294878
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c1aa0b86aee24aa0d1e70b3277d999ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.7736,
+              1.29497
+            ],
+            [
+              103.773633,
+              1.29493
+            ],
+            [
+              103.773683,
+              1.294973
+            ],
+            [
+              103.773706,
+              1.294946
+            ],
+            [
+              103.773706,
+              1.294945
+            ],
+            [
+              103.773733,
+              1.294911
+            ],
+            [
+              103.773809,
+              1.294972
+            ],
+            [
+              103.773769,
+              1.295023
+            ],
+            [
+              103.773871,
+              1.295104
+            ],
+            [
+              103.773827,
+              1.29516
+            ],
+            [
+              103.773804,
+              1.295141
+            ],
+            [
+              103.7736,
+              1.29497
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c9c0b2184c77fdeda9e800d645aff13e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773961,
+              1.294757
+            ],
+            [
+              103.773869,
+              1.294681
+            ],
+            [
+              103.773895,
+              1.294648
+            ],
+            [
+              103.773987,
+              1.294725
+            ],
+            [
+              103.773961,
+              1.294757
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cbf32853bf93d28e379f59b6031b4d05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supplies Room"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773872,
+          1.295138
+        ],
+        "type": "Point"
+      },
+      "id": "d1b7680d61e9213d9f9aa1fbc8836f09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Technical Staff Office 2"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773683,
+          1.295339
+        ],
+        "type": "Point"
+      },
+      "id": "d4b2a4d89fa2f65fb53605a87e10640a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Database 2",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.774149,
+          1.2948
+        ],
+        "type": "Point"
+      },
+      "id": "d6757cf97d26a3b60bd9d68afb89a34f"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773735,
+              1.294825
+            ],
+            [
+              103.773829,
+              1.294902
+            ],
+            [
+              103.773878,
+              1.294842
+            ],
+            [
+              103.773782,
+              1.294764
+            ],
+            [
+              103.773735,
+              1.294825
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d7d09670aab122a7ef6fc6484c0b3dd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.77414,
+              1.294625
+            ],
+            [
+              103.774158,
+              1.294602
+            ],
+            [
+              103.774128,
+              1.294578
+            ],
+            [
+              103.77411,
+              1.294601
+            ],
+            [
+              103.77414,
+              1.294625
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d8f13566a58fb619e14736790ec2cfd5"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.773817,
+              1.295318
+            ],
+            [
+              103.773754,
+              1.295268
+            ],
+            [
+              103.773729,
+              1.295299
+            ],
+            [
+              103.773791,
+              1.29535
+            ],
+            [
+              103.773817,
+              1.295318
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d9c1ac2cbcd64b1d23eb987f9308e5b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PL6"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773983,
+          1.294745
+        ],
+        "type": "Point"
+      },
+      "id": "db53aee73d5f9d96edb8f246e851a897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "connector": "stairs-1",
+        "type": 7
+      },
+      "geometry": {
+        "coordinates": [
+          103.77391,
+          1.294562
+        ],
+        "type": "Point"
+      },
+      "id": "e0e198ace5ba28f6da75524aed9ac922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.773798,
+          1.29517
+        ],
+        "type": "Point"
+      },
+      "id": "e0eabecb7caad8290b307d837902d1da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Computational Biology 1",
+        "door": 1
+      },
+      "geometry": {
+        "coordinates": [
+          103.77388,
+          1.294625
+        ],
+        "type": "Point"
+      },
+      "id": "e3855a06254f0ca23575bb1816e9605e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 16
+      },
+      "geometry": {
+        "coordinates": [
+          103.773898,
+          1.29511
+        ],
+        "type": "Point"
+      },
+      "id": "e660d6809eabb6f06e387df7fe01aa70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lobby"
+      },
+      "geometry": {
+        "coordinates": [
+          103.773739,
+          1.294871
+        ],
+        "type": "Point"
+      },
+      "id": "e9528298a31f8f1c537db7465600da4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embedded Systems Teaching Lab 2",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.773951,
+          1.294786
+        ],
+        "type": "Point"
+      },
+      "id": "ed3bb473fe7d9d78056ea29617d30e66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.773832,
+          1.295177
+        ],
+        "type": "Point"
+      },
+      "id": "ee3eb01145bfa2f018909d7b0c861906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artificial Intelligence Lab 1",
+        "door": 2
+      },
+      "geometry": {
+        "coordinates": [
+          103.774023,
+          1.294752
+        ],
+        "type": "Point"
+      },
+      "id": "f2bd63cf2377bccdd81261195fbed83f"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.77426,
+              1.294777
+            ],
+            [
+              103.774224,
+              1.294749
+            ],
+            [
+              103.774142,
+              1.294849
+            ],
+            [
+              103.774178,
+              1.294877
+            ],
+            [
+              103.77426,
+              1.294777
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f50f3d76b8e81c04a362f1628cd50c82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electrical Room 1"
+      },
+      "geometry": {
+        "coordinates": [
+          103.77376,
+          1.295244
+        ],
+        "type": "Point"
+      },
+      "id": "f8b9f73fc10c3dd9b804a7e0a5734e8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 15
+      },
+      "geometry": {
+        "coordinates": [
+          103.773866,
+          1.294616
+        ],
+        "type": "Point"
+      },
+      "id": "fb24a915e054802e313989d6aa11dbdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.774089,
+              1.294688
+            ],
+            [
+              103.77406,
+              1.294664
+            ],
+            [
+              103.77411,
+              1.294601
+            ],
+            [
+              103.774139,
+              1.294625
+            ],
+            [
+              103.774089,
+              1.294688
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "fe7c9f66ec1782cc6649a426f180f4ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 0
+      },
+      "geometry": {
+        "coordinates": [
+          103.773626,
+          1.295347
+        ],
+        "type": "Point"
+      },
+      "id": "ff6b49eec00b6c31cea15b5f71b11d1a"
+    }
+  ],
+  "type": "FeatureCollection"
+}
